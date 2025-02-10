@@ -44,7 +44,7 @@ With the rise of AI assistants like **Google Assistant, Alexa, and Siri**, many 
 ✔️ **AI-Powered Chatbot** – Uses Google Gemini Pro to generate intelligent responses.  
 ✔️ **Multilingual Support** – Communicates in multiple languages dynamically.  
 ✔️ **Text-to-Speech (TTS)** – Converts AI responses into speech for natural interactions.  
-✔️ **Interactive UI** – Buttons for "Start Listening," "Stop Listening," and response display.  
+✔️ **Interactive UI** – Buttons for "Start Listening, and response display.  
 ✔️ **Downloadable Audio Responses** – Users can save AI-generated speech.  
 
 ---
