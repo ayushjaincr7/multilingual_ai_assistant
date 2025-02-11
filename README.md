@@ -12,9 +12,7 @@
 - [⚙️ How It Works](#-how-it-works)  
 - [🛠️ Tech Stack](#-tech-stack)  
 - [📌 Installation & Setup](#-installation--setup)  
-- [📝 Future Enhancements](#-future-enhancements)  
-- [👨‍💻 Contributing](#-contributing)  
-- [📜 License](#-license)  
+ 
 
 ---
 
